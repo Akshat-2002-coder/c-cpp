@@ -15,7 +15,7 @@ void subset(int index,vector<int> &vt,int arr[],int size)
    subset( index+1,vt,arr,size);
 }
 int main()
-{   int arr[]={1,2,3},size; 
+{   int arr[]={1,2,3,3},size; 
     vector<int> vt;
     size=sizeof(arr)/sizeof(int);
     subset(0,vt,arr,size);

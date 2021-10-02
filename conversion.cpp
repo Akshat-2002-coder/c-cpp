@@ -10,7 +10,6 @@ int main()
   int i=0;
   while(num>0)
   {  rem=num%base;
-    // cout<<rem<<" ";b
      if(rem>9)
        a[i]=55+rem; 
      else 

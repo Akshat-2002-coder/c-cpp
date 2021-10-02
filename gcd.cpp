@@ -1,3 +1,4 @@
+//to calculate gcd   gcd*lcm = a*b
 #include<bits/stdc++.h>
 using namespace std;
 int gcd(int a,int b)
