@@ -1,3 +1,4 @@
+// use quick sort (DAC) to sort an array
 #include<bits/stdc++.h>
 using namespace std;
 void swap( int *a , int *b)
