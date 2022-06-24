@@ -1,3 +1,4 @@
+// print a 2-D matrix in sprial order.
 #include<bits/stdc++.h>
 using namespace std;
 
