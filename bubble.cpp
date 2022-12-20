@@ -8,9 +8,9 @@ int main()
    int arr[size];
    for(int i=0 ; i<size ; i++)
       cin>>arr[i];
-   for(int i=1 ; i<size-1 ; i++)   
+   for(int i=0 ; i<size-1 ; i++)   
    {  int flag=0;
-      for(int j=0 ; j<=size-1-i ; j++)
+      for(int j=0 ; j<size-1-i ; j++)
       {  if(arr[j]>arr[j+1])
          {  swap(arr[j],arr[j+1]);
             flag=1;
