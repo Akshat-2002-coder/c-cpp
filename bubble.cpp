@@ -1,4 +1,5 @@
 // bubble sorting
+// pushes maximum element at the last
 #include<bits/stdc++.h>
 using namespace std;
 int main()

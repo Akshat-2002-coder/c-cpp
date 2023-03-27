@@ -1,4 +1,5 @@
 // selection sorting
+// select minimum
 #include<bits/stdc++.h>
 using namespace std;
 int main()
